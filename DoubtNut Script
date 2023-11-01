@@ -1,0 +1,1 @@
+javascript:(function() { var videoSrc = document.getElementById('content_video_html5_api').getAttribute('src'); if (videoSrc) { window.open(videoSrc, '_blank'); } else { console.log('Video source link not found.'); } })();
