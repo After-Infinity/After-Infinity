@@ -7,7 +7,7 @@
     alt="after-infinity"
   /
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://dev.to/pannel-3" target="blank"
     ><img
